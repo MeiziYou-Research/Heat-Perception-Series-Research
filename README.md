@@ -44,4 +44,5 @@ Building on the first study, we propose a deep learning architecture that combin
 
 ## 📬 Contact
 
-GitHub: [@MeiziYou-Research](https://github.com/MeiziYou-Research) | meizi.you2026@gmail.com
+GitHub: [@MeiziYou-Research](https://github.com/MeiziYou-Research)
+Email: meizi.you2026@gmail.com
